@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil Manorkar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src=" ![image](https://github.com/Swapnil-Tech-J/Swapnil-Manorkar/assets/123949138/7ce5c869-080c-4a6d-a903-e3e786ff777f)">
-  ">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swapnil-tech-j&label=Profile%20views&color=0e75b6&style=flat" alt="swapnil-tech-j" /> </p>
 
